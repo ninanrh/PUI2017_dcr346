@@ -31,6 +31,6 @@ for bus in range(len(allbuses)):
     location = allbuses[bus]['MonitoredVehicleJourney']['VehicleLocation']
     buses.append((name, location))
 
-print('Bus line: {}'.format(name))
+print('Bus line: {}\nNumber of Active Buses: {}'.format(name,len(buses)))
 for i in range(len(buses)):
     print ('Bus {} is at latitude {} and longitude {}'.format(i, buses[i][1].values()[0], buses[i][1].values()[1]))
