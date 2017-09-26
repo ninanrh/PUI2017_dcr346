@@ -4,21 +4,18 @@
 
 ## Assignment #1:
 
-Worked with several other students, primarily with Prince and Sarah. 
+Worked with several other students, primarily with Prince and Sarah 
 - Learned from Sarah about the Json formatter for Google Chrome which made everything much more clear.
 - Prince help me to better understand the difference between indexing a list and range(len(list)).
-- Felt pretty good with navigating through the Json type of data.
-- I wrote the code in Jupyter notebook and than copied it to emacs (through terminal) and changed the url to suit it to a py script > that was understandable to me.
-- Had an issue with setting my MTA API key env variable, Prince helped me with that.
+- Felt pretty good with navigating through the Json type of data structure.
+- The code was first writen in Jupyter notebook. After running it in notebook I copied it to emacs (through terminal) and changed the url to suit to a py script with the variables and sys.argv[] > the methode was understandable to me.
 
 ## Assignment #2:
 
-Found the logic similar to Assignment#1, worked mostly alone and got help from Jack with writing to csv file. Overviewed with Sarah and Prince.
-- I wrote the code in Jupyter notebook and than copied it to emacs (through terminal) and changed the url to suit it to a py script
+Since the logic was quite similar to Assignment#1, I worked mostly alone
+- Overviewed the script with Sarah and Prince.
 
 ## Assignment #3:
 
-Worked with several other students, primarily with Prince and Sarah. 
-- Rebbeca showed my how to access .
-- Prince help me to better understand the difference between indexing a list and range(len(list)).
-- Felt pretty good with navigating through the Json type of data.
+Worked with several students 
+-
