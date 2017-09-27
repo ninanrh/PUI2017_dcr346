@@ -7,18 +7,18 @@ Assignment 1+2
 - Assignment 2: check the output within csv file 
 
 Assignment 3
-read in file using pandas
-clean data to include two number columns
-create simple scatter plot
+- read in open data file using pandas
+- make sure to select data with at least two numerical columns
+- create simple scatter plot
 
 Extra credit
 - read in open data file using pandas
-- parse data with at least one temporal value and one numerical value
+- make sure to select data with at least one temporal value and one numerical value
 - plot y variable dependant upon time
 
 
 ## Workflow and Collaboration:
-The code was first writen in Jupyter notebook. After running it in notebook I copied it to emacs and changed the url to suit a py script with the env variables and sys.argv[] > the methode was understandable to me. 
+The code was first writen in Jupyter notebook. After running it in notebook I copied it to emacs and changed the url to suit a py script with the env variables and sys.argv[] >> the methode was understandable to me. 
 
 I worked with several students, primarily with Prince and Sarah: Learned from Sarah about the Json formatter for Google Chrome which made everything much more clear; Prince help me to better understand the difference between indexing a list and range(len(list)); over the weekend we overviewed and finalized the script. I felt pretty good with navigating through the Json data structure.
 
