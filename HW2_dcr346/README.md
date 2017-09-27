@@ -5,7 +5,7 @@
 Worked with several students, primarily with Prince and Sarah 
 - Learned from Sarah about the Json formatter for Google Chrome which made everything much more clear
 - Prince help me to better understand the difference between indexing a list and range(len(list))
-- Felt pretty good with navigating through the Json type of data structure
+- Felt pretty good with navigating through the Json data structure
 - The code was first writen in Jupyter notebook. After running it in notebook I copied it to emacs and changed the url to suit a py script with the env variables and sys.argv[] > the methode was understandable to me
 
 ## Assignment #2:
