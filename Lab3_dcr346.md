@@ -4,7 +4,7 @@
 Experimental setup: you have a test and a control sample.
 
 Testable Hypothesis:
-# the average % of fat lost is significantly higher within the diet candidates in comparison to the exercise candidates 
+#### the average % of fat lost is significantly higher within the diet candidates in comparison to the exercise candidates 
 Null Hypothesis: 
 # the average % of fat lost is equal / lower within the diet candidates in comparison to the exercise candidates 
 
