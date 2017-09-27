@@ -1,5 +1,3 @@
-# Note to self >> This is not done yet!!!
-
 # PUI2017_dcr346/HW2_dcr346 - README.md
 
 ## Assignment #1:
