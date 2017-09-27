@@ -20,12 +20,13 @@ Extra credit
 ## Workflow and Collaboration:
 The code was first writen in Jupyter notebook. After running it in notebook I copied it to emacs and changed the url to suit a py script with the env variables and sys.argv[] >> the methode was understandable to me. 
 
-I worked with several students, primarily with Prince and Sarah: Learned from Sarah about the Json formatter for Google Chrome which made everything much more clear; Prince help me to better understand the difference between indexing a list and range(len(list)); over the weekend we overviewed and finalized the script. I felt pretty good with navigating through the Json data structure.
+I worked with several students, primarily with Prince and Sarah: Learned from Sarah about the Json formatter for Google Chrome which made everything much more clear; Prince help me to better understand the difference between indexing a list and range(len(list)); Over the weekend we overviewed and finalized our scripts. I felt pretty good with navigating through the Json data structure.
 
-For assignment 3+extra credit, before DF was all set I refered my Ipython notebook to a link from NYC Open Data website. Rebecca then showed me how to access Urban Profiler from CUSP's Data Hub. Unisse (and Google) helped me to figure out how to convert the str dates to date-time format.
+For assignment 3+extra credit, before DF was all set I refered my Ipython notebook to a link from NYC Open Data website.
+Sarah and I worked together on the third assignment. Rebecca then showed me how to access Urban Profiler from CUSP's Data Hub. For the extra credit, Unisse (and Google) helped me to figure out how to convert the str dates to date-time format.
 
 ## Notes:
-In the extra credit, my selected data included a very large list of dates that didn't plotted properly (super-densed text); I reduced the number of plotted bars by assigning steps of 5 to the df2 values:
+My selected data in the extra credit assignment included a very large list of dates that didn't plotted properly (super-densed text); I reduced the number of plotted bars by assigning steps of 5 to the df2 values:
 
 ```
 df2[::5].plot(kind="bar",x='Date', y='Block', rot=45, color="#D7F08F", figsize=(35,10), fontsize=15)
