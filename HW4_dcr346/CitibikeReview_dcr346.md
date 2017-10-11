@@ -39,6 +39,7 @@ print(u_total)
 print(c_total)
 ```
 [ 91567  93520 130758 134052 114035  61836  74697]
+
 [2388  752 3038 3102 2521 3854 7363]
 
 ```
@@ -47,3 +48,5 @@ scipy.stats.ttest_ind(u_total,c_total)
 ```
 Ttest_indResult(statistic=9.3112138042622536, pvalue=7.6996974734088575e-07)
 
+### Conclution
+#### Receiving these results of calculated t-statistic and the extremely small p-value, referring to the very further tail of the distribution, I can reject the Null hypothesis.
