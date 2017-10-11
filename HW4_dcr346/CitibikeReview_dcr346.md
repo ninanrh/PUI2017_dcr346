@@ -16,13 +16,13 @@ and
 
 **Figure 1b:** Distribution of Citibike bikers by Customer types in July 2017, absolute counts, with statistical errors
 
-![alt text]('Screen Shot 2017-10-10 at 22.05.50.png')
+![alt text](Screen Shot 2017-10-10 at 22.05.50.png)
 
 and
 
 **Figure 1c:** Distribution of Citibike bikers by Customer types in July 2017, Normalized
 
-![alt text]('Screen Shot 2017-10-10 at 22.15.47.png')
+![alt text](Screen Shot 2017-10-10 at 22.15.47.png)
 
 The data supports the project.\ 
 However, considering the question is reffering for weekdays only, Saturday and Sunday information could have been neglected.
