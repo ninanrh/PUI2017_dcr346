@@ -15,10 +15,13 @@ The Alternative hypothesis was formulated correctly, though the **\alpha was not
 and
 
 **Figure 1b:** Distribution of Citibike bikers by Customer types in July 2017, absolute counts, with statistical errors
+
 ![Alt text](Screen Shot 2017-10-10 at 22.05.50.png)
+
 and
 
 **Figure 1c:** Distribution of Citibike bikers by Customer types in July 2017, Normalized
+
 ![Alt text](Screen Shot 2017-10-10 at 22.15.47.png)
 
 The data supports the project.\ 
