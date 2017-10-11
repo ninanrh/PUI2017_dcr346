@@ -10,11 +10,12 @@ The Alternative hypothesis was formulated correctly, though the **\alpha was not
 
 * I am referreing for the UserType/Tripduration and not reviewing the efforts to analyze age of bikers. 
 
-**Figure 1a:** __Distribution of Citibike bikers by Customer types in July 2017, absolute counts__ and
+Please see cells of code + the following figures:
+1. **Figure 1a:** ___Distribution of Citibike bikers by Customer types in July 2017, absolute counts___ 
 
-**Figure 1b:** __Distribution of Citibike bikers by Customer types in July 2017, absolute counts, with statistical errors__ and
+2. **Figure 1b:** ___Distribution of Citibike bikers by Customer types in July 2017, absolute counts, with statistical errors___ and
 
-**Figure 1c:** __Distribution of Citibike bikers by Customer types in July 2017, Normalized__
+3. **Figure 1c:** ___Distribution of Citibike bikers by Customer types in July 2017, Normalized___
 
 The data supports the project.\ 
 However, considering the question is reffering for weekdays only, Saturday and Sunday information could have been neglected.
