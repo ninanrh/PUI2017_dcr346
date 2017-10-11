@@ -11,5 +11,6 @@
   
  ## Assignment#4
  I worked with several students, primary with Emily, Rebecca, Jack and Prince.
+ I didn't succeed using Dr. Bianco's getcitibikedata function, so I downloaded the data from Citibike open data and read it directly. Please see the .zip file in this current HW4_dcr346 directory.
  
  Dr. Bianco's office hours helped me to better understand the theory and method of the statistical tests.
