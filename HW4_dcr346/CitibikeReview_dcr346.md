@@ -28,7 +28,7 @@ I chose t test to compare the costumers distribution with the users distribution
 
 # Z = $\frac{\mu_{pop} - \mu_{sample}}{\sigma / \sqrt{N}}$
 
-''''''nparray
+'''
 u_total = df['date'][df['User Type'] == 1].groupby([df['date'].dt.weekday]).count()
 c_total = df['date'][df['User Type'] == 0].groupby([df['date'].dt.weekday]).count()
 
@@ -41,7 +41,7 @@ print(c_total)
 [ 91567  93520 130758 134052 114035  61836  74697]
 [2388  752 3038 3102 2521 3854 7363]
 
-'''ttest
+'''
 import scipy.stats
 scipy.stats.ttest_ind(u_total,c_total)
 '''
