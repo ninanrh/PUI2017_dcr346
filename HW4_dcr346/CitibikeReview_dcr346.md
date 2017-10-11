@@ -17,7 +17,8 @@ Please see cells of code + the following figures:
 
 3. Figure 1c: ___Distribution of Citibike bikers by Customer types in July 2017, Normalized___
 
-The data supports the project.\ 
+The data supports the project.
+
 However, considering the question is reffering for weekdays only, Saturday and Sunday information could have been neglected.
 
 I would have suggest, instead of overseeing weekend data, to try and assess the differences between weekdays and weekends.
