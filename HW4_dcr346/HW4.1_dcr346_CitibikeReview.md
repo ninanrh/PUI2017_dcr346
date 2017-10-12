@@ -1,5 +1,5 @@
 # Citibike HW3_Assinment1 Citibike Review
-### reviewing [pak348 Ipython notebook](https://raw.githubusercontent.com/danachermesh/PUI2017_pak348/master/HW3_pak348/Homework_3_Assignment_2_pak348.ipynb)
+### reviewing [pak348 Ipython notebook](https://github.com/danachermesh/PUI2017_pak348/blob/master/HW3_pak348/Homework_3_Assignment_2_pak348.ipynb)
 
 ### (a) Null and alternative hypotheses
 The Null hypothesis was formulated correctly, though the **\alpha was not stated**.
