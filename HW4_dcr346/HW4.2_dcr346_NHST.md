@@ -1,12 +1,14 @@
-| Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper | 
+| **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
-ANCOVA	| 1, Ranks of values | ordinal | 1, did Self Affirmation or no| categorical | 1, age | continuous (could also be categoridcal) | 	Do participants in self-affirmation rak  value significantly higher than control group | Ranks test groups <= Ranks control group | 0.05 | [Self-Affirmation Improves Problem-Solving under Stress](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0062593) |
+Chi-Squared	| 1, Ranks of values | ordinal | 1, did Self Affirmation or no| categorical | 1, activity | continuous (could also be categoridcal) | 	Do participants in the Tai Chi Chuan (TCC) group's physical and psychological health is better than the control group after 12 weeks period  | Ranks test groups <= Ranks control group | 0.05 | [the effectiveness and safety of Tai Chi Chuan (TCC) on physical and psychological health of college students](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0132605) |
   |||||||||
+  
+ 
 Correlation	| 1, Ranks of values | ordinal | 1, did Self Affirmation or no| categorical | 1, age | continuous (could also be categoridcal) | 	Magnitude and correlates of bird collisions at glass bus shelters in an urban landscape | Ranks test groups <= Ranks control group | 0.05 | [Magnitude and correlates of bird collisions at glass bus shelters in an urban landscape](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0178667) |
 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
+|:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
+Chi-Squared	| 1,  | Name & Religious Priming| 1, Rating of popular political figure| categorical | 1, Religion |Categorical) | Does Politically conservative participants primed with President Obama’s middle name rate him more negatively than would those who are not shown his middle name? | Middle Name Primed Rate Negatively >= Middle Name Not Shown | 0.05 | [The effects of name and religious priming on ratings of a well-known political figure, President Barack Obama]( http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0180676) |
+  |||||||||
+
