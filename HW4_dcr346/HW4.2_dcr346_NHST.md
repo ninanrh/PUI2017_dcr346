@@ -10,6 +10,6 @@ Correlation	| 7, Land cover variables (ArchGIS). 1 var (GlassArea) recieved the 
 
 | **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
-Logistic Regression	| 1, Flow cytometry data measurement| Continous | 1, Leukemia diagnosis yes/no | categorical | 1, Fluorescent labeled cells | categorical | Can Leukemia be predicted using Flow cytometry data measurements | Test Scores ~= Mean Features| 0.05 | [Leukemia Prediction Using Sparse Logistic Regression](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0072932) |
+Logistic Regression	| 1, Flow cytometry data measurement| Continous | 1, Leukemia diagnosis yes/no | categorical | 1, Fluorescent labeled cells | categorical | Can Leukemia be predicted using Flow cytometry data measurements | Test Scores <= Mean Features| 0.05 | [Leukemia Prediction Using Sparse Logistic Regression](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0072932) |
   |||||||||
 
