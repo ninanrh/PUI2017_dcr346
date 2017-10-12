@@ -8,7 +8,8 @@
  
  ## Assignment#3
   Worked alone.
-  Felt this assignment really helped me to better understand the tests and the workflow of each one of it.
+  
+  Felt this assignment really gained me a deeper knowledge about the tests and the workflow of each one of it.
   
  ## Assignment#4
  I worked with several students, primary with Emily, Rebecca, Jack and Prince.
