@@ -1,7 +1,7 @@
 # README HW5_dcr346
 
 ## Assignment 1: Test the Z test
-Worked on most of it with Emily, Rebbeca, Matt and Sarah. The samples plotting I did by my own.
+Worked on most of it with Emily, Rebbeca, Matt and Sarah. Did the samples plotting by my own.
 
 ## Assignment 2: Compare Tests for Goodness of fit
 Worked with Emily and Rebbeca. 
