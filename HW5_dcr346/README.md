@@ -14,5 +14,7 @@ Scipy documentation was helpful and quite understandable and I feel I learned mu
 Worked with Emily and Rebbeca. 
 Did most of the data downloading and merging by my own, got little help from Julian.
 
-Didn't got to plot the WLS as I should > the WLS looks the same as the OLS.
+Issues occured:
+1. Didn't succeed with calling for the PUIDATA environmental variable; the path seemed alright but from some reason it did not work.
+2. I guess I didn't plot the WLS as I should > the WLS line looks the same as the OLS (ax3.subplot).
 
