@@ -4,7 +4,7 @@
 Worked on most of it with Emily, Rebbeca, Matt and Sarah. Did the samples plotting by my own.
 
 ## Assignment 2: Compare Tests for Goodness of fit
-Worked with Emily and Rebbeca. 
+Worked with Emily, Rebbeca and Matt. 
 
 Setting the narray was a bit challenging but the plots 'explained' themselves that we needed to sort the narray first.
 
