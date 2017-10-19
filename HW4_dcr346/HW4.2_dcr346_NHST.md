@@ -13,3 +13,6 @@ Correlation	| 7, Land cover variables (ArchGIS). 1 var (GlassArea) recieved the 
 Logistic Regression	| 1, Flow cytometry data measurement| Continous | 1, Leukemia diagnosis yes/no | categorical | - | - | Can Leukemia be predicted using Flow cytometry data measurements | Test Scores <= Mean Features| 0.05 | [Leukemia Prediction Using Sparse Logistic Regression](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0072932) |
   |||||||||
 
+FBB:
+
+Chi-Squared: IV several physical and psychological health tests SCOREs (the test is not the variable, the test score is a variable)
