@@ -16,3 +16,5 @@ Logistic Regression	| 1, Flow cytometry data measurement| Continous | 1, Leukemi
 FBB:
 
 Chi-Squared: IV several physical and psychological health tests SCOREs (the test is not the variable, the test score is a variable)
+
+otherwise good!
