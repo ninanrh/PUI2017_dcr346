@@ -17,4 +17,4 @@ FBB:
 
 Chi-Squared: IV several physical and psychological health tests SCOREs (the test is not the variable, the test score is a variable)
 
-otherwise good!
+otherwise good! although the instructions were to place the table in README
