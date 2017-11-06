@@ -1,3 +1,5 @@
+# FBB I had asked for this table tp be in the main readme. Please read the instructions carefully!
+
 | **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 Chi-Squared	| several physical and psychological health tests, including flexability and balance | categorical | 1, Ranks of values | numerical | 1, usual activity | categorical | 	Do participants in the Tai Chi Chuan (TCC) group's physical and psychological health is better than the control group after 12 weeks period  | Ranks test groups <= Ranks control group | 0.05 | [the effectiveness and safety of Tai Chi Chuan (TCC) on physical and psychological health of college students](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0132605) |
@@ -16,5 +18,8 @@ Logistic Regression	| 1, Flow cytometry data measurement| Continous | 1, Leukemi
 FBB:
 
 Chi-Squared: IV several physical and psychological health tests SCOREs (the test is not the variable, the test score is a variable)
+
+ALSO: correlation null is generally just that there is no correlation
+
 
 otherwise good! although the instructions were to place the table in README
