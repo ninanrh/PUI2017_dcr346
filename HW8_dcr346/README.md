@@ -5,6 +5,8 @@ Worked alone on this assignment.
 
 For the code used to generate the folloeing plot please see the attached Ipython Notebook
 
+The objective of this assignment was to get a picture of the urban development level / situation of the city by viewing the amount of permits issued, categorically seperated by permit types, for each of all 5 New York City's boroughs. Data were retrieved from [CUSP Data Facility DOB permit issuance data](http://urbanprofiler.cloudapp.net/dataset/ipu4-2q9a/)
+
 
 ![PermitsIssuanceNYC.png](https://github.com/danachermesh/PUI2017_dcr346/blob/master/HW8_dcr346/PermitsIssuanceNYC.png)
 
